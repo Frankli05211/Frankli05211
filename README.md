@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frankli05211
+- 👋 Hi, I’m Boyang(Frank) Li
 - 👀 I’m interested in software designer
 - 🌱 I’m currently learning an introduction to Artificial Intelligence
 - 📫 How to reach me b392li@uwaterloo.ca
