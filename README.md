@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boyang(Frank) Li
-- 👀 I’m interested in computer graphics, computational imaging, and computer networks related to applied research projects.
+- 👀 I’m interested in Computer Graphics, Natural Language Processing, and Large Language Models related to applied research projects.
 - 🌱 I’m currently a student in Master of Science in Applied Computing @ University of Toronto
 - 📫 How to reach me frankli@cs.toronto.edu
 
